@@ -1,0 +1,42 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\obj\Debug\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\obj\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Contracts\obj\Debug\Contracts.pdb

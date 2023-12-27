@@ -1,0 +1,91 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\SekundarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\SekundarnaAGS\obj\Debug\SekundarnaAGS.pdb

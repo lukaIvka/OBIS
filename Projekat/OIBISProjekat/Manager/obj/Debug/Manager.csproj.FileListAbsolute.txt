@@ -1,0 +1,53 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Manager\obj\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Manager\obj\Debug\Manager.pdb

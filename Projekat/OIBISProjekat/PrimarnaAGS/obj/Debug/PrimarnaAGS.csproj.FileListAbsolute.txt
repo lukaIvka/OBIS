@@ -1,0 +1,91 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\PrimarnaAGS.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\PrimarnaAGS\obj\Debug\PrimarnaAGS.pdb

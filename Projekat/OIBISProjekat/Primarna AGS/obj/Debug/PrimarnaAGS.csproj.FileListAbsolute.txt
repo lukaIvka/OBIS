@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\bin\Debug\Primarna AGS.exe.config
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\bin\Debug\Primarna AGS.exe
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\bin\Debug\Primarna AGS.pdb
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\bin\Debug\Common.dll
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\bin\Debug\Common.pdb
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\PrimarnaAGS.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\PrimarnaAGS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\PrimarnaAGS.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\PrimarnaAGS.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\Primarna AGS.exe
+C:\Users\Lenovo\Documents\GitHub\Elementi-razvoja-softvera\OIBIS_Projekat\Projekat\OIBISProjekat\Primarna AGS\obj\Debug\Primarna AGS.pdb

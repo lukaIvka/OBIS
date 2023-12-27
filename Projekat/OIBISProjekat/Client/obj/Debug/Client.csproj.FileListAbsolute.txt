@@ -1,0 +1,89 @@
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Test\Novi projekat\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\PrimarnaAGS.DESKTOP-E0CH71E\Desktop\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\New folder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Autorizacija\OIBISProjekat\Client\obj\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Client.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Contracts.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Manager.dll
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Contracts.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\bin\Debug\Manager.pdb
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.exe
+C:\Users\User\OneDrive\Desktop\Newfolder\Replikacija\OIBISProjekat\Client\obj\Debug\Client.pdb
